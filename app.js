@@ -201,8 +201,8 @@ class App {
             <div class="note-text">${note.text}</div>
             <div class="toolbar-container">
               <div class="toolbar">
-                <img class="toolbar-color" data-id=${note.id} src="https://icon.now.sh/palette">
-                <img class="toolbar-delete" data-id=${note.id} src="https://icon.now.sh/delete">
+                <img class="toolbar-color" data-id=${note.id} src="icons/color-wheel.png">
+                <img class="toolbar-delete" data-id=${note.id} src="icons/trash.png">
               </div>
             </div>
           </div>

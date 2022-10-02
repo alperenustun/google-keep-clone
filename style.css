@@ -390,4 +390,25 @@
   #teal {
     background: #a7ffeb;
   }
+
+  .floating-note{
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    width: 50px;
+    opacity: 0.1;
+    animation: 10s rotate infinite ease-in-out;
+  }
+
+  @keyframes rotate {
+    0%{
+      transform: rotate(0);
+    }
+    50%{
+      transform: rotate(360deg);
+    }
+    100%{
+      transform: rotate(0);
+    }
+  }
   
