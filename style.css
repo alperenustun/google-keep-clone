@@ -82,10 +82,13 @@
   }
   
   .header-title {
-    color: #5f6368;
+    color: #e95454;
     font-size: 2rem;
     padding-top: 4px;
     padding-left: 4px;
+  }
+  .header-title span{
+    color: #00cef5;
   }
   
   #notes {
