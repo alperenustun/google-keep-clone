@@ -2,4 +2,4 @@
 
 Notecloud is a googlekeep clone created for tutorial purposes.
 
-https://alperenustun.dev/notecloud/
+https://note-cloud.netlify.app/
